@@ -1,5 +1,5 @@
 @font-face{
-	font-family:"HyundaiExtraBold";
+	font-family:"HyundaiExtraBold"; /* 웹폰트, 용량이 크다는 부담이 있다 */
 	src:url('../font/YouandiModernHEB.eot');
 	src:url('../font/YouandiModernHEB-.eot#iefix') format('embedded-opentype'),
         url('../font/YouandiModernHEB.woff') format('woff');
